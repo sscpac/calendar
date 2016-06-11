@@ -95,3 +95,6 @@ RCS/*
 coverage/
 
 !/js/vendor
+
+# Vagrant
+.vagrant
