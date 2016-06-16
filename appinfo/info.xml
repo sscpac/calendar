@@ -1,20 +1,23 @@
 <?xml version="1.0"?>
 <info>
 	<id>calendar</id>
-	<name>Calendar</name>
-	<version>1.2.2</version>
+	<name>Secure Web Calendar</name>
+	<version>1.2.2-sscpac</version>
 	<licence>AGPL</licence>
-	<author>Georg Ehrke, Raghu Nayyar, Bernhard Fröhler</author>
+	<author>Spawar Systems Center Pacific</author>
+	<default_enable/>
 	<dependencies>
 		<owncloud min-version="9.0" max-version="9.1" />
 	</dependencies>
-	<description>Calendar GUI for ownCloud's integrated CalDAV server</description>
+	<description>Secure Calendar GUI for ownCloud's integrated CalDAV server</description>
 	<documentation>
-		<user>http://doc.owncloud.org/server/9.0/user_manual/pim/calendar.html</user>
+		<user>https://github.com/sscpac/owncloud-calendar/wiki</user>
 	</documentation>
 	<category>productivity</category>
-	<website>https://github.com/owncloud/calendar/</website>
-	<bugs>https://github.com/owncloud/calendar/issues</bugs>
-	<repository type="git">https://github.com/owncloud/calendar.git</repository>
-	<ocsid>168707</ocsid>
+	<website>https://github.com/sscpac/owncloud-calendar/</website>
+	<bugs>https://github.com/sscpac/owncloud-calendar/issues</bugs>
+	<repository type="git">https://github.com/sscpac/owncloud-calendar.git</repository>
+	<type>
+		<productivity/>
+	</type>
 </info>
