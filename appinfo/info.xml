@@ -2,7 +2,7 @@
 <info>
 	<id>calendar</id>
 	<name>Secure Web Calendar</name>
-	<version>1.0</version>
+	<version>1.2.2-sscpac</version>
 	<licence>AGPL</licence>
 	<author>Spawar Systems Center Pacific</author>
 	<default_enable/>
@@ -11,7 +11,7 @@
 	</dependencies>
 	<description>Secure Calendar GUI for ownCloud's integrated CalDAV server</description>
 	<documentation>
-		<user>http://doc.owncloud.org/server/9.0/user_manual/pim/calendar.html</user>
+		<user>https://github.com/sscpac/owncloud-calendar/wiki</user>
 	</documentation>
 	<category>productivity</category>
 	<website>https://github.com/sscpac/owncloud-calendar/</website>
