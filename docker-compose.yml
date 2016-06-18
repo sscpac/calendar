@@ -11,7 +11,7 @@ services:
             POSTGRES_PASSWORD : mysecretpassword
 
     owncloud:
-        image: rwakida/owncloud:9.0.2
+        image: rwakida/owncloud:9.0-apache
         container_name: owncloud
         depends_on:
             - db

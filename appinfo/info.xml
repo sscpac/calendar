@@ -2,7 +2,7 @@
 <info>
 	<id>calendar</id>
 	<name>Secure Web Calendar</name>
-	<version>1.2.2-sscpac</version>
+	<version>1.0-sscpac</version>
 	<licence>AGPL</licence>
 	<author>Spawar Systems Center Pacific</author>
 	<default_enable/>
