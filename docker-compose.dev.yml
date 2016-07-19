@@ -1,0 +1,8 @@
+# Specify more then one file using "-f"
+# e.g.:  docker-compose -f docker-compose.yml -f docker-compose.dev.yml up
+
+version: "2"
+services:
+  owncloud:
+      volumes:
+          - ./app:/var/www/html/apps/calendar
